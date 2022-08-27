@@ -1,4 +1,4 @@
-# Python-DSA
+# Python - Data Structure & Algorithms
 In this repository, discussion has been done on the in-built data structures such as lists, tuples, dictionaries, etc, and some user-defined data structures such as linked lists, trees, graphs, etc, and traversal as well as searching and sorting algorithms.
 
 # Link: 
