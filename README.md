@@ -21,6 +21,12 @@ In this repository, discussion has been done on the in-built data structures suc
     7. More on Loops
     8. Functions
     9. Test 1
+    10. Python data structure
+        1. String
+        2. Lists
+        3. Tuples
+        4. Sets
+        5. Dictionary
     
 ## Milestone 2
     1. Recursion - 1
