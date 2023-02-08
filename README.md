@@ -16,13 +16,13 @@ In this repository, discussion has been done on the in-built data structures suc
     6. Patterns 2
     7. More on Loops
     8. Functions
-    9. Test 1
-    10. Python data structure
+    9. Python data structure
         1. String
         2. Lists
         3. Tuples
         4. Sets
         5. Dictionary
+    10. Miscellaneous
     
 ## Milestone 2
     1. Recursion - 1
@@ -45,7 +45,7 @@ In this repository, discussion has been done on the in-built data structures suc
     6. Strings
     7. Two Dimensional Lists
     8. Tuples, Dictionary & Sets
-    9. Test 2
+    9. Miscellaneous 
     
  ## Milestone 3
     1. OOPS - 1
@@ -89,17 +89,17 @@ In this repository, discussion has been done on the in-built data structures suc
        12. Deletion from Binary Tree
        13. B+ Tree ( Insertion and deleteion)
        14. Red Black Tree ( Insertion and deleteion)
-    5. Test 3
-    6. Dictionaries/Map
-    7. Priority Queues - 1
-    8. Prioroty Queues - 2
-    9. Greedy Algorithm
+    5. Dictionaries/Map
+    6. Priority Queues - 1
+    7. Prioroty Queues - 2
+    8. Greedy Algorithm
        1. Ford Fulkerson Algorithm
        2. Dijkstra's Algorithm
        3. Kruskal's Algorithm
        4. Prim's Algorithm
        5. Huffman Coding
-  
+    9. Miscellaneous
+    
   ## Milestone 5
     1. Dynamic Programming - 1
     2. Dynamic Programming - 2
