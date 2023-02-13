@@ -17,6 +17,5 @@
         1. Circular Queues
         2. Priority Queues
         3. Deque
-    16. Test 2
-    17. Binary Trees - 1
-    18. Binary Trees - 2
+    16. Binary Trees - 1
+    17. Binary Trees - 2
