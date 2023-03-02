@@ -30,15 +30,15 @@ In this repository, discussion has been done on the in-built data structures suc
     3. Recursion Assignment
     4. Arrays & Lists
     5. Searching & Sorting
-       1. Bubble Sort
-       2. Selection Sort
-       3. Insertion Sort
-       4. Merge Sort
-       5. Quick Sort
-       6. Counting Sort
-       7. Radix Sort
-       8. Bucket Sort
-       9. Heap Sort
+       1.  Bubble Sort
+       2.  Selection Sort
+       3.  Insertion Sort
+       4.  Merge Sort
+       5.  Quick Sort
+       6.  Counting Sort
+       7.  Radix Sort
+       8.  Bucket Sort
+       9.  Heap Sort
        10. Shell Sort
        11. Linear Search
        12. Binary Search
@@ -48,15 +48,15 @@ In this repository, discussion has been done on the in-built data structures suc
     9. Miscellaneous 
     
  ## Milestone 3
-    1. OOPS - 1
-    2. OOPS - 2
-    3. OOPS - 3
-    4. Time Complexity Analysis
-    5. Test 1
-    6. Space Complexity Analysis
-    7. Applications of Complexity Analysis
-    8. Linked List - 1
-    9. Linked List - 2
+    1.  OOPS - 1
+    2.  OOPS - 2
+    3.  OOPS - 3
+    4.  Time Complexity Analysis
+    5.  Test 1
+    6.  Space Complexity Analysis
+    7.  Applications of Complexity Analysis
+    8.  Linked List - 1
+    9.  Linked List - 2
     10. Hash Table
     11. Heap Data Structure
     12. Fibonacci Heap
@@ -75,15 +75,15 @@ In this repository, discussion has been done on the in-built data structures suc
     2. Binary Search Tree - 2
     3. Generic Trees
     4. Tree Based DSA
-       1. Tree Data Structure
-       2. Tree Traversal
-       3. Binary Tree
-       4. Full Binary Tree
-       5. Perfect Binary Tree
-       6. Complete Binary Tree
-       7. Balanced Binary tree
-       8. Binary Search Tree
-       9. AVL tree
+       1.  Tree Data Structure
+       2.  Tree Traversal
+       3.  Binary Tree
+       4.  Full Binary Tree
+       5.  Perfect Binary Tree
+       6.  Complete Binary Tree
+       7.  Balanced Binary tree
+       8.  Binary Search Tree
+       9.  AVL tree
        10. B Tree
        11. Insertion into Binary tree
        12. Deletion from Binary Tree

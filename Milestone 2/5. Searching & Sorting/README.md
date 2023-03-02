@@ -17,3 +17,8 @@
 14. Binary Search - Floor of a number
 15. Binary Search - Order Agnostic Binary Search
 16. Binary Search - Smallest letter greater than target
+17. Bubble Sort (Iterative) Linked List
+18. Code - Merge two sorted Linked List
+19. Code - Merge Sort
+20. Arranging Coins
+21. Largest Number
