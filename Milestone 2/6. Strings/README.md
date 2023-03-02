@@ -8,3 +8,4 @@
 5.  Remove Character
 6.  Highest Occuring Character
 7.  Compress the Strings
+8.  Multiple String
