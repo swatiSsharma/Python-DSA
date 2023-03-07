@@ -5,3 +5,4 @@
 2. Diameter of Binary Tree
 3. Print Levelwise
 4. Construct Tree using Inorder and Preorder
+5. Construct Tree using Inorder and Postorder
