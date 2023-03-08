@@ -9,3 +9,4 @@
 6. Create & Insert Duplicate Node
 7. Minimum and Maximum in the Binary Tree
 8. level order Traversal
+9. Path Sum Root to Leaf
