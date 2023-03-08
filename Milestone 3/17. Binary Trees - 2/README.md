@@ -8,3 +8,4 @@
 5. Construct Tree using Inorder and Postorder
 6. Create & Insert Duplicate Node
 7. Minimum and Maximum in the Binary Tree
+8. level order Traversal
