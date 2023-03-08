@@ -23,3 +23,4 @@
 20. Number of Different Subsequences GCD's
 21. Remove Element
 22. Sort Colors
+23. K Closest Points to Origin
