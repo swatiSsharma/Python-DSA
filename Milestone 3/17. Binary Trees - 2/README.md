@@ -7,4 +7,4 @@
 4. Construct Tree using Inorder and Preorder
 5. Construct Tree using Inorder and Postorder
 6. Create & Insert Duplicate Node
-7. 
+7. Minimum and Maximum in the Binary Tree
