@@ -17,3 +17,9 @@
 14. Sort 0 1
 15. Nearest 5 points
 16. First Missing Positive
+17. House Robber
+18. Search in a Rotated Sorted Array
+19. Element appearing more than 25% in Sorted Array
+20. Number of Different Subsequences GCD's
+21. Remove Element
+22. Sort Colors
