@@ -6,3 +6,4 @@
 3. Postorder Binary Tree
 4. Nodes Greater than X
 5. Height of Tree
+6. Replace Node with Depth
