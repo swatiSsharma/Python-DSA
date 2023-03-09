@@ -7,3 +7,4 @@
 4. Nodes Greater than X
 5. Height of Tree
 6. Replace Node with Depth
+7. Is Node Present
