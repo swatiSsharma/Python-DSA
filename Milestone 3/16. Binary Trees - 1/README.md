@@ -9,3 +9,5 @@
 6. Replace Node with Depth
 7. Is Node Present
 8. Nodes without sibling
+9. Maximum Difference between Node and Ancestor
+10. Leaf - Similar Trees
