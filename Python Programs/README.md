@@ -6,3 +6,4 @@
 - Swap Key Values
 - Armstrong Numbers
 - Reverse Vowels
+- Sublist Average
