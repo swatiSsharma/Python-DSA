@@ -5,3 +5,4 @@
 - Efficiently compute Sums of Diagonals of a Matrix
 - Swap Key Values
 - Armstrong Numbers
+- Reverse Vowels
