@@ -25,3 +25,4 @@
 22. Sort Colors
 23. K Closest Points to Origin
 24. Remove That
+25. Second Largest
