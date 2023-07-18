@@ -2,7 +2,7 @@
 # Array and Lists
 
 1.  Count element that has at least 1 element greater than themselves
-2.  Find if element exists in an array
+2.  Find if an element exists in an array
 3.  Median of two sorted arrays of different sizes
 4.  Reverse a given array
 5.  Reverse a given subarray
@@ -24,3 +24,4 @@
 21. Remove Element
 22. Sort Colors
 23. K Closest Points to Origin
+24. Remove That
