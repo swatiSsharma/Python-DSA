@@ -27,3 +27,4 @@
 24. Remove That
 25. Second Largest
 26. Identify Matrix or Not
+27. Next Permutation or Find next lexicographically greater permutation
