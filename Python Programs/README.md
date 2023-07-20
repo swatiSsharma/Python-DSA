@@ -7,3 +7,4 @@
 - Armstrong Numbers
 - Reverse Vowels
 - Sublist Average
+- Words
