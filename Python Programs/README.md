@@ -8,3 +8,4 @@
 - Reverse Vowels
 - Sublist Average
 - Words
+- Not today, Duplicate!
