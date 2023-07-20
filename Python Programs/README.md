@@ -9,3 +9,5 @@
 - Sublist Average
 - Words
 - Not today, Duplicate!
+- Locate Peak
+- Tail match
