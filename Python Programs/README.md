@@ -11,3 +11,4 @@
 - Not today, Duplicate!
 - Locate Peak
 - Tail match
+- Wasted Nested
