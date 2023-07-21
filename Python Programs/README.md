@@ -12,3 +12,4 @@
 - Locate Peak
 - Tail match
 - Wasted Nested
+- Kaprekarian riddles
