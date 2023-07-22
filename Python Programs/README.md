@@ -15,6 +15,7 @@
 - Kaprekarian riddles
 - Show me the Clock
 - Barplot for profit
+- Population density
 - Get the data
 - Square matrix
 - Rotate the Array
