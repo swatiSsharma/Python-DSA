@@ -17,3 +17,4 @@
 - Barplot for profit
 - Get the data
 - Square matrix
+- Rotate the Array
