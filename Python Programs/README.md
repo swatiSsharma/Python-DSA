@@ -14,5 +14,6 @@
 - Wasted Nested
 - Kaprekarian riddles
 - Show me the Clock
+- Barplot for profit
 - Get the data
 - Square matrix
