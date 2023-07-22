@@ -17,5 +17,6 @@
 - Barplot for profit
 - Population density
 - Get the data
+- Income Slab
 - Square matrix
 - Rotate the Array
