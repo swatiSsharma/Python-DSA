@@ -5,4 +5,5 @@
 2. Balanced Parenthesis
 3. Reverse Stack
 4. Check Redundant Brackets
+5. Stock Span
 
