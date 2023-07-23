@@ -6,4 +6,5 @@
 3. Reverse Stack
 4. Check Redundant Brackets
 5. Stock Span
+6. Minimum Bracket Reversal
 
