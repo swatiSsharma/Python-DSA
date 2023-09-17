@@ -20,3 +20,4 @@
 - Income Slab
 - Square matrix
 - Rotate the Array
+- First 6 Elements
