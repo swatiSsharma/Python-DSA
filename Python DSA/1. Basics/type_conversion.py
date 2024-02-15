@@ -46,8 +46,8 @@ print(a)
 
 print(int(-5.56))
 
-## truthy and falsey value
-#Intwgwer
+## truthy and falsey value -- BOOL Conversion
+#Integer, float and string
 print(bool(5))
 
 print(bool(0)) #False
@@ -56,8 +56,11 @@ print(bool(1))
 
 print(bool(-555))
 
-print(bool(0.00)) #
+print(bool(0.00)) #False
 
 print(bool('')) #False
 
 print(bool(' ')) # true
+
+print(bool('swqd'))
+

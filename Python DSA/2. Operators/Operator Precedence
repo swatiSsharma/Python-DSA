@@ -1,0 +1,51 @@
+# Operator precedence
+
+Operator precedence determines the order in which operators are evaluated in an expression. Here is a general overview of operator precedence in Python, from highest to lowest:
+
+1. Parentheses (): Parentheses group expressions and have the highest precedence.
+   Example: (3 + 5) \* 2
+   Exponent \*\*
+
+2. Exponentiation has the next highest precedence.
+   Example: 2 \*\* 3
+   Positive +, Negative - (Unary)
+
+3. Unary positive and negative operators.
+   Example: -x
+   Multiplication \*, Division /, Floor Division //, Modulus %
+
+4. Multiplication, division, floor division, and modulus have the same precedence.
+   Example: a \* b / c
+   Addition +, Subtraction -
+
+5. Addition and subtraction have the same precedence.
+   Example: x + y - z
+
+6. Bitwise Shift <<, >>; Bitwise left shift and right shift operators.
+   Example: a << 2
+   Bitwise AND &
+
+7. Bitwise AND operator.
+   Example: a & b
+
+8. Bitwise XOR ^; Bitwise XOR (exclusive OR) operator.
+   Example: a ^ b
+
+9. Bitwise OR |; Bitwise OR operator.
+   Example: a | b
+   Comparison Operators ==, !=, >, <, >=, <=, is, is not, in, not in
+
+10. Comparison operators have the next precedence.
+    Example: x == y
+
+11. Boolean NOT not; Logical NOT operator.
+    Example: not x
+
+12. Boolean AND and; Logical AND operator.
+    Example: x and y
+    Boolean OR or
+
+13. Logical OR operator.
+    Example: x or y
+
+These rules ensure that expressions are evaluated in the correct order. If there are multiple operators in an expression, operators with higher precedence are evaluated first. If operators have the same precedence, their evaluation order is determined by associativity (left to right).
