@@ -42,11 +42,30 @@ else:
 result = "even" if x % 2 == 0 else "odd"
 print(f"x is {result}")
 
+# NESTED IF ELSE
+'''
+Nested if-else statements are used in programming to create conditional branching, allowing you to 
+execute different code blocks based on multiple conditions. The structure of a nested if-else 
+statement involves placing one if-else statement inside another. Here's a simple example in Python:
 
+'''
+x = 10
+y = 5
 
+if x > y:
+    print("x is greater than y")
+else:
+    print("x is not greater than y")
+    if x == y:
+        print("x is equal to y")
+    else:
+        print("x is less than y")
+'''
+In this example:
 
-
-                              
-
-
-
+1) The first if checks if x is greater than y. If true, it prints "x is greater than y."
+2) If the first if condition is false, it goes to the else block, which contains another nested 
+   if-else statement.
+3) The nested if-else checks if x is equal to y. If true, it prints "x is equal to y." If false, 
+   it prints "x is less than y."
+'''

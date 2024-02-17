@@ -15,7 +15,7 @@ print(not p or q) # False
 
 num1 = 15
 num2 = 10
-print(num1 == num2 or num1 > num2) # False
+print(num1 == num2 or num1 > num2) # True
 
 m = 8
 n = 6
