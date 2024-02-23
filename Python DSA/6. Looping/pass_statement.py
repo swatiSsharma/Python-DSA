@@ -1,5 +1,4 @@
 # Pass Statement
-
 """
 In Python, the pass statement is a null operation or a no-op. It serves as a placeholder where 
 syntactically some code is required, but you don't want to execute any particular instructions. 
