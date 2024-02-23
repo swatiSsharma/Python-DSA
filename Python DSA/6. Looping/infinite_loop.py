@@ -15,4 +15,4 @@ print("Good Bye!")
 # Example 2: Infinite Loop 
 num = 10
 while num > 1:
-print("Hello")
+    print("Hello")
