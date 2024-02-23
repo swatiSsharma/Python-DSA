@@ -1,4 +1,4 @@
-# Sum of division
+# Sum of division: 
 """
 Take two numbers from user
 the end range will be n1

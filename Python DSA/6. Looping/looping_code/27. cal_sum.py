@@ -1,6 +1,5 @@
 # Enter a number by user continously unless 0 is entered. Calculate the sum of previous numbers
 
-
 total = 0
 
 while True:

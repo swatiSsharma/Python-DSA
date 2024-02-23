@@ -1,4 +1,4 @@
-
+# Sum of digits
 
 def sum_of_digits(number):
     digit_sum = 0

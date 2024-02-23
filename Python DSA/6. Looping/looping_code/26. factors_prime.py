@@ -1,7 +1,5 @@
 # Factors count and Prime
 
-
-
 def fact(n1: int) -> None:
     i = 1
     count = 0

@@ -1,4 +1,5 @@
-# Factors of a number
+# Factors of a number 
+# 1. Write a program that takes an integer as input and prints all the factors of this number.
 
 def fact(n1: int) -> None:
     i = 1

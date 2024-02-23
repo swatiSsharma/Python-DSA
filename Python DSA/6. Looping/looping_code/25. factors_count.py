@@ -1,4 +1,4 @@
-# Count the number of factors
+# Count the number of factors for a given input
 
 def fact(n1: int) -> None:
     i = 1
