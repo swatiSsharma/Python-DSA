@@ -13,6 +13,13 @@
 ***
 ***
 2) Operators
+   - assignment operators
+   - arithmetic operators
+   - comparison operators
+   - logical operators
+   - Operator Precedence
+***
+***
 3) Conditional Statements
 4) Functions
 5) Modules
