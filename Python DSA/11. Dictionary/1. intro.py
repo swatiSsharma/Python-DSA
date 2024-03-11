@@ -1,5 +1,4 @@
 # Introduction to dictionary
-
 '''
 In Python, you can use dictionaries to store key-value pairs. Here's a basic overview of how 
 dictionaries work and some common operations you can perform with them:
