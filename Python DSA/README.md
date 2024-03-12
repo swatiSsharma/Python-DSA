@@ -21,6 +21,11 @@
 ***
 ***
 3) Conditional Statements
+   - conditional If else
+   - if elif and else
+   - nested if else
+***
+***
 4) Functions
 5) Modules
 6) Looping
