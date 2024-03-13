@@ -14,7 +14,6 @@ for  marks in students.values():
         if  min_marks > mark:
             min_marks = mark
 
-=======
 # Print the minimum mark in that class
 
 students = {
