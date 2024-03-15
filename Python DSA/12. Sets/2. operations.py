@@ -44,6 +44,11 @@ is_proper_subset = set1 < set2
 is_proper_superset = set1 > set2
 # Output: False
 
+## 10. symmetric_difference(): Returns a new set containing elements that are present in either set, but not in both.
+
+sym_difference_set = set1.symmetric_difference(set2)
+# Output: {1, 2, 4, 5}
+
 '''
 These operations provide powerful ways to manipulate sets and perform set-theoretic operations 
 efficiently in Python. They are particularly useful for tasks involving unique elements and 

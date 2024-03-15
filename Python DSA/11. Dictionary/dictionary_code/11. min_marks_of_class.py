@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Print the minimum mark in that class
 
 students = {
@@ -29,5 +28,4 @@ for  marks in students.values():
         if  min_marks > mark:
             min_marks = mark
 
->>>>>>> 23e42bfffef4fd673de480cb5d8ac70515f9550d
 print("The maximum mark in the class is:", min_marks)
