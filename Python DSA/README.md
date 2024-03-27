@@ -27,6 +27,13 @@
 ***
 ***
 4) Functions
+  - return
+  - named argument
+  - pass function
+  - scooping in function
+  - types of functions
+***
+***
 5) Modules
 6) Looping
 7) Patterns
