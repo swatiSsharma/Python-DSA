@@ -3,7 +3,6 @@
 import random
 from typing import List
  
- 
 class Bank:
     def __init__(self) -> None:
         self.account_number = random.randint(100000, 999999)
@@ -41,23 +40,35 @@ class Bank:
  
 accounts: List[Bank] = []
  
- 
 while True:
     print("\n1. Add account")
     print("2. Display all accounts")
     print("3. Search account")
-    print("4. Deposit")
-    print("5. Withdraw")
-    print("6. Exit\n")
-    choice = int(input("Enter choice = "))
+    print("4. Exit\n")
+
+    choice = int(input("Enter your choice = "))
+
     if choice == 1:
         x = Bank()
         accounts.append(x)
         print(accounts)
+
     elif choice == 2:
         for obj in accounts:
             obj.display()
-    elif choice == 6:
+
+    elif choice == 3:
+        search_acc = int(input("Enter  Account number to search = "))
+        found = False
+        for obj in accounts:
+            if obj.account_number == search_acc:
+                obj.display()
+                found = True
+                break
+        if not found: # if found == False:
+            print("Account not found!")
+        
+    elif choice == 4:
         break
     else:
         print("Invalid Choice")
