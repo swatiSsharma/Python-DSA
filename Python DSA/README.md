@@ -1,6 +1,6 @@
 # This repo has Python DSA-based questions:
 
-1) Basics
+1) **Basics**
    - print_statements
    - input
    - variables
@@ -12,7 +12,7 @@
    - comments
 ***
 ***
-2) Operators
+2) **Operators**
    - assignment operators
    - arithmetic operators
    - comparison operators
@@ -20,13 +20,13 @@
    - Operator Precedence
 ***
 ***
-3) Conditional Statements
+3) **Conditional Statements**
    - conditional If else
    - if elif and else
    - nested if else
 ***
 ***
-4) Functions
+4) **Functions**
    - return
    - named argument
    - pass function
