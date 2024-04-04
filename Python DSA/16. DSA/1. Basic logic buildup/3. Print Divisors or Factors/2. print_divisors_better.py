@@ -1,20 +1,20 @@
 """
-Time Complexity: O(sqrt N)
+Time Complexity: O(√n)
 
-1) Iterating from 2 to the square root of the number: This step takes O(sqrt N) time because it 
+1) Iterating from 2 to the square root of the number: This step takes O(√n) time because it 
    iterates at most up to the square root of the given number.
 2) Checking divisibility and adding factors to the list: For each iteration, checking divisibility and 
    adding factors to the list takes constant time.
 3) Sorting the factors: After collecting all factors, sorting them takes 
-   O(sqrt N log(Sqrt N))=(sqrt N log N) time.
-4) Joining and printing the factors: This step also takes O(sqrt N) time as it involves iterating over
+   O(√n log(√n))=(√n log N) time.
+4) Joining and printing the factors: This step also takes O(√n) time as it involves iterating over
    all the factors to join them into a string.
 
-Since the most significant term in the time complexity is O(sqrt N log N), log N is less significant 
-compared to sqrt N, when n is large, the overall time complexity can be simplified to O(sqrt N). This 
+Since the most significant term in the time complexity is O(√n log N), log N is less significant 
+compared to √n, when n is large, the overall time complexity can be simplified to O(√n). This 
 is because the time taken to iterate and find factors dominates the overall time complexity.
 
-Space  Complexity: O(2 * sqrt N) = O(sqrt N)
+Space  Complexity: O(2 * √n) = O(√n)
 """
 
 import math
